@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ca_3",
-    "slug": "ca_3",
+    "name": "BrewGo",
+    "slug": "brewgo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
